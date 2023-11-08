@@ -21,7 +21,7 @@ En esta fase inicial, nuestro objetivo principal es identificar y abordar cualqu
 Para la detección de valores atípicos, hemos empleado una función específica denominada "Z score," la cual se encuentra implementada en un archivo de código llamado [funcion.py](funcion.py). El Z score es una métrica estadística que evalúa la distancia entre un valor de datos y la media de una distribución en términos de desviaciones estándar. Valores Z score altos o bajos pueden indicar cuán lejos está un punto de datos de la media y si se considera un valor atípico.
 
 <p align="center">
-  <img src="src\Captura.PNG" alt="Privacidad"  width="50%"/>
+  <img src="imagenes\Captura.PNG" alt="Privacidad"  width="50%"/>
 </p>
 
 Una vez que hayamos completado la limpieza y validación preliminar de los datos, estaremos en una posición sólida para explorar los patrones, relaciones y tendencias presentes en los datos, lo que nos permitirá obtener una comprensión más profunda y significativa de nuestro conjunto de datos. A través del EDA, podremos formular preguntas relevantes, realizar análisis estadísticos y visuales, y llegar a conclusiones que respalden la toma de decisiones informadas.
