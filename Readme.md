@@ -1,16 +1,16 @@
 <p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
-# `<h1 align=center>` **PROYECTO INDIVIDUAL N°2** `</h1>`
+# <h1 align=center> **PROYECTO INDIVIDUAL N°2** </h1>
 
 <p align="center">
   <img src="imagenes\2acd894fafe24336a4a319ad07b34f1f (2).png" alt="Privacidad" width="50%"/>
 </p>
 
-# `<h1 align=center>` **Introducción** `</h1>`
+# <h1 align=center> **Introducción** </h1>
 
 En este segundo proyecto individual, nos enfrentamos al desafío de realizar un análisis exhaustivo de una diversidad de conjuntos de datos que abarcan información integral sobre telecomunicaciones. Exploraremos datos relacionados con la conectividad, velocidad de Internet, tecnologías emergentes y su impacto en diferentes regiones. A medida que nos sumergimos en este análisis, buscaremos descubrir tendencias, patrones y relaciones significativas en los datos, con el objetivo de extraer conocimientos valiosos que puedan guiar decisiones estratégicas y mejorar la calidad de los servicios de telecomunicaciones. Este proyecto promete brindar una comprensión profunda de un sector vital en constante evolución y contribuir al desarrollo de soluciones innovadoras en el ámbito de las telecomunicaciones.
 
-# `<h1 align=center>` **Desarrollo del Proyecto**`</h1>`
+# <h1 align=center> **Desarrollo del Proyecto**</h1>
 
 ## **Análisis Exploratorio de Datos** (EDA)
 
@@ -71,7 +71,7 @@ Para continuar en el sector de las telecomunicaciones y mejorar nuestra calidad 
 
 En resumen, nuestras conclusiones indican que estamos comprometidos con un crecimiento sostenible y la mejora continua de nuestros servicios, respaldados por indicadores clave de desempeño que guiarán nuestro progreso en el mercado de las telecomunicaciones.
 
-Podras encontrar más desarrollado la explicación de nuestros KPI´s [aquí](KPI.ipynb)
++ **Podras encontrar más desarrollado la explicación de nuestros KPI´s [aquí](KPI.ipynb)**
 
 ## Fuentes de datos principales
 
