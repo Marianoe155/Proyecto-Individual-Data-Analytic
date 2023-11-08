@@ -3,7 +3,7 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL N°2** </h1>
 
 <p align="center">
-  <img src="Telecomunicaciones\imagenes\2acd894fafe24336a4a319ad07b34f1f (2).png" width="50%"/>
+  <img src="imagenes\2acd894fafe24336a4a319ad07b34f1f (2).png" alt="Privacidad" width="50%"/>
 </p>
 
 # <h1 align=center> **Introducción** </h1>
@@ -34,7 +34,7 @@ Luego de una elaborada lectura para formar una idea respecto a factores de impor
 + **Número total de accesos al servicio de Internet fijo por banda ancha.**
 
 <p align="center">
-  <img src="src\Banda ancha por año.PNG" alt="Privacidad"  width="70%"/>
+  <img src="imagenes\Banda ancha por año.PNG" alt="Privacidad"  width="70%"/>
 </p>
 
 Lo que se puede observar es un constante crecimiento en el acceso a Internet fijo a través de banda ancha a lo largo de los años, a nivel nacional.
@@ -44,7 +44,7 @@ Este desarrollo podría ser un indicador de una mayor infraestructura de telecom
 + **Número de accesos al servicio de Internet fijo por tipo de tecnología.**
 
 <p align="center">
-  <img src="src\Tipo de tecnología.PNG" alt="Privacidad"  width="70%"/>
+  <img src="imagenes\Tipo de tecnología.PNG" alt="Privacidad"  width="70%"/>
 </p>
 
 Es evidente a simple vista cómo las nuevas tecnologías, como la "Fibra óptica", muestran un notable potencial de crecimiento en comparación con las tecnologías existentes. Este ascenso en la adopción de la fibra óptica puede atribuirse a su capacidad superior de transmisión de datos y mayor velocidad, lo que la convierte en una opción atractiva para los usuarios que buscan una conectividad de alta calidad.
@@ -53,7 +53,7 @@ Es evidente a simple vista cómo las nuevas tecnologías, como la "Fibra óptica
 + **Número de accesos al servicio de Internet fijo por cada 100 hogares por provincia.**
 
 <p align="center">
-  <img src="src\100 hogares por provincia.PNG" alt="Privacidad"  width="70%"/>
+  <img src="imagenes\100 hogares por provincia.PNG" alt="Privacidad"  width="70%"/>
 </p>
 
 En este gráfico, es evidente que, a pesar de una inversión limitada en Tierra del Fuego, esta provincia se sitúa en la segunda posición en términos de acceso a Internet por cada 100 hogares. Estos datos subrayan cómo una gestión efectiva de los recursos puede llevar a resultados notablemente positivos en el ámbito de la conectividad.
@@ -62,7 +62,7 @@ En este gráfico, es evidente que, a pesar de una inversión limitada en Tierra 
 + **Ingresos trimestrales por la prestación del servicio de Internet fijo.**
 
 <p align="center">
-  <img src="src\Ingresos por año.PNG" alt="Privacidad"  width="70%"/>
+  <img src="imagenes\Ingresos por año.PNG" alt="Privacidad"  width="70%"/>
 </p>
 
 Observamos que nuestros ingresos por la prestación de servicios se mantienen de manera estable y positiva a lo largo del tiempo, sin mostrar tendencias significativas de cambio. Esta consistencia en los ingresos refleja la confiabilidad y la demanda constante de nuestros servicios, lo que puede ser un indicativo de una base de clientes sólida y una gestión efectiva de la calidad de los servicios ofrecidos.
