@@ -71,7 +71,7 @@ Para continuar en el sector de las telecomunicaciones y mejorar nuestra calidad 
 
 En resumen, nuestras conclusiones indican que estamos comprometidos con un crecimiento sostenible y la mejora continua de nuestros servicios, respaldados por indicadores clave de desempeño que guiarán nuestro progreso en el mercado de las telecomunicaciones.
 
-+ **Podras encontrar más desarrollado la explicación de nuestros KPI´s [aquí](KPI.ipynb)**
++ **Podras encontrar más desarrollo de la explicación de nuestros KPI´s [aquí](KPI.ipynb)**
 
 ## Fuentes de datos principales
 
