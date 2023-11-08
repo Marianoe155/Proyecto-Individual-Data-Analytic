@@ -3,7 +3,7 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL N°2** </h1>
 
 <p align="center">
-  <img src="src\2acd894fafe24336a4a319ad07b34f1f (2).png" width="50%"/>
+  <img src="Telecomunicaciones\imagenes\2acd894fafe24336a4a319ad07b34f1f (2).png" width="50%"/>
 </p>
 
 # <h1 align=center> **Introducción** </h1>
